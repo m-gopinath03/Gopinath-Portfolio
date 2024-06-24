@@ -11,7 +11,6 @@ Welcome to my portfolio website! [Click here to visit my website](https://m-gopi
 - [Styles](#styles)
 - [Setup](#setup)
 - [Contributions](#contributions)
-- [License](#license)
 
 ## About
 
@@ -51,7 +50,3 @@ To view and run this portfolio website locally, follow these steps:
 ## Contributions
 If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request. Contributions are always welcome!
 
-## License
-This project is open-source and available under the MIT License.
-
-Thank you for visiting my portfolio website repository. I hope you find it informative and engaging. If you have any questions or comments, please don't hesitate to reach out through the contact section of the website.
