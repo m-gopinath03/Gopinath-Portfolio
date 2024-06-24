@@ -1,5 +1,4 @@
-# Portfolio Website
-
+# Portfolio
 Welcome to my portfolio website! [Click here to visit my website](https://m-gopinath03.github.io/portfolio/). This repository contains the source code and assets for my personal portfolio, showcasing my projects, skills, and contact information.
 
 ## Table of Contents
